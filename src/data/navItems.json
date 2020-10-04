@@ -1,0 +1,14 @@
+{
+  "navItems": [
+    {
+      "href": "#home",
+      "description": "Home",
+      "current": true
+    },
+    {
+      "href": "#about",
+      "description": "About",
+      "current": false
+    }
+  ]
+}

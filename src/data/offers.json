@@ -1,0 +1,40 @@
+{
+  "offers": [
+    {
+      "title": "Free",
+      "unit": "mo",
+      "price": 0,
+      "items": [
+        "10 users included",
+        "2 GB of storage",
+        "Email support",
+        "Help center access"
+      ],
+      "textButton": "Sign up for free"
+    },
+    {
+      "title": "Pro",
+      "unit": "mo",
+      "price": 15,
+      "items": [
+        "20 users included",
+        "10 GB of storage",
+        "Priority email support",
+        "Help center access"
+      ],
+      "textButton": "Sign up for free"
+    },
+    {
+      "title": "Enterprise",
+      "unit": "mo",
+      "price": 29,
+      "items": [
+        "30 users included",
+        "15 GB of storage",
+        "Phone and email support",
+        "Help center access"
+      ],
+      "textButton": "Sign up for free"
+    }
+  ]
+}
